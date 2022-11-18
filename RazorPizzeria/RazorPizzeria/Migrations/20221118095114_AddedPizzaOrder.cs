@@ -5,7 +5,7 @@
 namespace RazorPizzeria.Migrations
 {
     /// <inheritdoc />
-    public partial class addedPizzaOrder : Migration
+    public partial class AddedPizzaOrder : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

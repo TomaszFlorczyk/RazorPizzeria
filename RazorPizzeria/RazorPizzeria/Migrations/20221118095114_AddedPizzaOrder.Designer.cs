@@ -11,8 +11,8 @@ using RazorPizzeria.Data;
 namespace RazorPizzeria.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20221118092401_addedPizzaOrder")]
-    partial class addedPizzaOrder
+    [Migration("20221118095114_AddedPizzaOrder")]
+    partial class AddedPizzaOrder
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
